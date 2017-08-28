@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Farmer Management System</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="fms">Farmer Management System</string>
+    <string name="intro">&#x9;&#x9;&#x9;&#x9;
+        To checkout in all four season (winter, rainy, and summer) what all seeds can be use and the type
+        of seeds that can be used in different type of soil (Clay, Loam, and Sand). To provide them the information of the
+        fertilizer that is used for increasing the soil immunity and growth of plant to the customer. The farmer association bank
+        is used to provide loan for the farmers as material and money. The farmer can buy product like water pump, tractors and instrument
+        used for farming as a material and seeds and fertilizer can be obtained using money loan. Farmer association (society) inventory can
+        inform the stock details of the seeds and fertilizer, user can register and can order the product they needed bill will be generated.
+        Location of the farmer association which contain stock will be indicated.
+    </string>
+    <string name="logout">Logout</string>
+    <string name="product_ordered">products ordered</string>
+    <string name="products_to_order">products to order</string>
+    <string name="quantity">Enter the Quantity You Needed</string>
+
+
+    <string-array name="location">
+        <item>==Select Location==</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+    </string-array>
+    <string-array name="chennai">
+        <item>Chennai1011</item>
+        <item>Chennai1012</item>
+    </string-array>
+    <string-array name="coimbatore">
+        <item>Coimbatore1011</item>
+        <item>Coimbatore1012</item>
+    </string-array>
+</resources>
